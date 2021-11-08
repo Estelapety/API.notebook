@@ -1,10 +1,14 @@
-# My Jupyter Notebook on IBM Watson Studio
+# My Jupyter Notebook on GitHub
 **Estela Ramos**  
 Data Analyst
 
 *I am interested in data science because I would like to progress at my job*
 ### 1+1
 
+```python
+a = "hola"
+print (a)
+```
 [Access google](https://www.google.com)
 
 | Name          | Age           |
