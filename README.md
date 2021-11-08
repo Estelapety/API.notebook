@@ -6,7 +6,7 @@ Data Analyst
 ### 1+1
 
 ```python
-a = "hola"
+a = 1+1
 print (a)
 ```
 [Access google](https://www.google.com)
